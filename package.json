@@ -1,0 +1,11 @@
+{
+  "name": "generator-zce-vue",
+  "version": "1.0.0",
+  "description": "generator vue demo",
+  "main": "index.js",
+  "author": "linhui",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.10.1"
+  }
+}
